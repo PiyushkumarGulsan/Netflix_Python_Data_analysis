@@ -36,6 +36,10 @@ Top 10 Content Ratings
 
 ![image](https://github.com/user-attachments/assets/23be8c57-57e5-452a-9804-de18ac724cd5)
 
+# Content Type Over Year Added #
+![image](https://github.com/user-attachments/assets/96bbc978-a63d-4433-a93c-9f59e3337b60)
+
+
 # Solution to Business Objective #
 
 Q1. What do you suggest the client to achieve Business Objective ?
